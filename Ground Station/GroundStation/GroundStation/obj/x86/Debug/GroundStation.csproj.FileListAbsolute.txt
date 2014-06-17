@@ -6,3 +6,4 @@ C:\Users\Roy_2\Documents\PSU\12 SWENG 500\PSUTeam2\Ground Station\GroundStation\
 C:\Users\Roy_2\Documents\PSU\12 SWENG 500\PSUTeam2\Ground Station\GroundStation\GroundStation\obj\x86\Debug\GroundStation.exe
 C:\Users\Roy_2\Documents\PSU\12 SWENG 500\PSUTeam2\Ground Station\GroundStation\GroundStation\obj\x86\Debug\GroundStation.pdb
 C:\Users\Roy_2\Documents\PSU\12 SWENG 500\PSUTeam2\Ground Station\GroundStation\GroundStation\obj\x86\Debug\GroundStation.About.resources
+C:\Users\Roy_2\Documents\PSU\12 SWENG 500\PSUTeam2\Ground Station\GroundStation\GroundStation\obj\x86\Debug\GroundStation.csprojResolveAssemblyReference.cache
