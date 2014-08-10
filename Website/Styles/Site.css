@@ -1,0 +1,99 @@
+﻿body  
+{
+    background-color: #f0f0f0;
+    margin: 2px;
+    padding: 0px;
+    font-family: Arial;
+    font-size: 16px;
+}       
+#header
+{
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 5px;
+}
+#systemContainer
+{
+    margin: 0 auto;
+    width: 1200px;
+}
+#dataContainer
+{
+
+}
+#map-canvas 
+{
+	height: 480px;
+	width: 500px;
+	border: 1px solid #000;
+	margin-right: 5px;
+}
+	
+table
+{
+	border-collapse: collapse;
+	width: 100%;
+}
+	
+th, td
+{
+	padding: 2px;
+	text-align:center;
+}
+#map-container
+{
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+}
+#image-container
+{
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+}
+#latestImage
+{
+    border: 1px solid #000;
+}
+.clear
+{
+    clear:both;
+}
+#debugConsole
+{
+    width: 1147px;
+    margin-top: 2px;
+    border: 1px solid #000;
+    background-color: #012853;
+}
+#vehicleData
+{
+    margin-top: 2px;
+    width: 1147px;
+	border: 1px solid #000;
+}
+.vehicleNotConnected
+{
+    width: 1137px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #000;
+    background-color: #ececec;
+    padding: 5px;
+    color: #ababab;
+    font-weight: bold;
+    text-align: left;
+}
+.vehicleConnected
+{
+    width: 1137px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #000;
+    background-color: #d7f0d8;
+    padding: 5px;
+    color: #000;
+    font-weight: bold;
+    text-align: left;
+}
