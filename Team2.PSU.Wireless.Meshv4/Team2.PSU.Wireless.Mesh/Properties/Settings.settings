@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Team2.PSU.Wireless.Mesh.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PortName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="DataBits" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="Parity" Type="System.IO.Ports.Parity" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="DataMode" Type="Team2.PSU.Wireless.Mesh.View.DataMode" Scope="User">
+      <Value Profile="(Default)">Text</Value>
+    </Setting>
+    <Setting Name="ClearOnOpen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ClearWithDTR" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MapURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost/default.aspx</Value>
+    </Setting>
+    <Setting Name="BaudRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">57600</Value>
+    </Setting>
+    <Setting Name="StopBits" Type="System.IO.Ports.StopBits" Scope="User">
+      <Value Profile="(Default)">Two</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=L117\SQLEXPRESS;Initial Catalog=Team2PSU;Trusted_Connection=True;</Value>
+    </Setting>
+    <Setting Name="ReceivedFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Roy_2\Documents\PSU\12 SWENG 500\ReceivedFiles\</Value>
+    </Setting>
+    <Setting Name="WWWFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\inetpub\wwwroot\cow.jpg</Value>
+    </Setting>
+    <Setting Name="LogFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Roy_2\Documents\PSU\12 SWENG 500\LogFiles\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

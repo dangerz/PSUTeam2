@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Team2.PSU.Wireless.Mesh.Model.TerminalModel">
+    <Position X="0.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAAAAAAgAAAAAAAgAEAgAgAAAAAAAAAA=</HashCode>
+      <FileName>Model\TerminalModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team2.PSU.Wireless.Mesh.Presenter.TerminalPresenter">
+    <Position X="9.5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAoAAAAAgAAAAAAAAAIiAEAgAgAABAAgAAAA=</HashCode>
+      <FileName>Presenter\TerminalPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team2.PSU.Wireless.Mesh.View.Program">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team2.PSU.Wireless.Mesh.View.About">
+    <Position X="4.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>View\About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team2.PSU.Wireless.Mesh.View.frmTerminal">
+    <Position X="6.75" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AGAAiUIhDKEQABIHKAKlAAiSgYCQpARECjAB0AIAAgg=</HashCode>
+      <FileName>View\Terminal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team2.PSU.Wireless.Mesh.Properties.Resources">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Team2.PSU.Wireless.Mesh.Properties.Settings">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcACAAAAAAAAAAAAAAAAIAgAAAABAAAAAAAEAAAUAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Team2.PSU.Wireless.Mesh.Model.ITerminalModel">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAAAAAAAAAAAAAAgAEAgAgAAAAAAAAAA=</HashCode>
+      <FileName>Model\ITerminalModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Team2.PSU.Wireless.Mesh.Presenter.ITerminalPresenter">
+    <Position X="9.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAoAAAAAgAAAAAAAAAIgAEAgAgAABAAAAAAA=</HashCode>
+      <FileName>Presenter\ITerminalPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Team2.PSU.Wireless.Mesh.View.DataMode">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>View\Terminal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Team2.PSU.Wireless.Mesh.View.LogMsgType">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAABAAAAAoQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\Terminal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
