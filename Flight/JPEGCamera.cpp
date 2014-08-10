@@ -1,7 +1,7 @@
 /* Arduino JPEGCamera Library
  * Copyright 2010 SparkFun Electronic
  * Written by Ryan Owens
- * Modified by Emmanuel ALLAUD (2013)
+ * Modified by Roy El-Rayes (2014)
 */
 
 #include "JPEGCamera.h"
